@@ -8,7 +8,7 @@
 This repository contains my solutions to the CS50 AI course. This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation. The course is divided into 5 sections: Search, Knowledge, Uncertainty, Optimization, and Learning. Each section contains a number of problems that are solved using Python. The problems are solved using the following algorithms: Depth-first search, Breadth-first search, Uniform-cost search, A* search, Minimax, Alpha-beta pruning, K-nearest neighbors, Naive Bayes, Decision trees, Neural networks, and NLP. The course is taught by David J. Malan and can be found [here](https://cs50.harvard.edu/ai/2020/).
 
 ## Disclaimer
-Du to the course policy; this reps does not contain any solution for the course assignments. It only contains a description of the course and a demo for my solutions for each project.
+Due to the course policy; this reps does not contain any solution for the course assignments. It only contains a description of the course and a demo for my solutions for each project.
 
 ## Search
 In this section, we learn about how to represent problems as a search problem, different search algorithms, adversarial search, and how to use search to solve problems.
@@ -101,4 +101,10 @@ Demo link: [Parser](https://www.youtube.com/watch?v=EbP09JH-fYk)
 This project is a program that answers questions. The program takes as input a file containing a description of a question, and then prints out an answer to the question. The program uses natural language processing to answer the question.
 
 Demo link: [Questions](https://www.youtube.com/watch?v=b8YASAOK5EU)
+
+## Course Certificate
+<div align='center'>
+
+<img src='./images/certificate.png' width='800px'>
+</div>
 
