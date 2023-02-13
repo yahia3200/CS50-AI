@@ -1,5 +1,8 @@
 # CS50’s Introduction to Artificial Intelligence with Python
-![CS50-AI](./images/main.png)
+<div align='center'>
+
+<img src='./images/main.png' width='800px'>
+</div>
 ## Description
 This repository contains my solutions to the CS50 AI course. This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation. The course is divided into 5 sections: Search, Knowledge, Uncertainty, Optimization, and Learning. Each section contains a number of problems that are solved using Python. The problems are solved using the following algorithms: Depth-first search, Breadth-first search, Uniform-cost search, A* search, Minimax, Alpha-beta pruning, K-nearest neighbors, Naive Bayes, Decision trees, Neural networks, and NLP. The course is taught by David J. Malan and can be found [here](https://cs50.harvard.edu/ai/2020/).
 
